@@ -13,11 +13,11 @@ This project analyzes **trading results** using **statistical and machine learni
 
 ## 📊 Sample Visualizations
 ### 📈 Cumulative profit
-![Trading Performance](https://github.com/user-attachments/assets/sample-trading-chart)
+![Image](https://github.com/user-attachments/assets/b1d8582a-d9ff-4c4c-8c1c-8db551d08cfa)
 
 ### 📉 PDF from simulation
-![Profit/Loss Analysis](https://github.com/user-attachments/assets/sample-profit-loss-chart)
 
+![Image](https://github.com/user-attachments/assets/fbbaaf10-3c7a-4124-a0e7-e8ebb867ae9f)
 
 
 ## 🏗️ Tech Stack
