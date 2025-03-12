@@ -29,10 +29,6 @@ This project analyzes **trading results** using **statistical and machine learni
 - **Matplotlib & Seaborn** – Charts and statistical plots.
 - **Plotly** – Interactive graphs.
 
-### 🔹 **Machine Learning & Statistics**
-- **Scikit-learn** – ML models and feature engineering.
-- **Statsmodels** – Statistical analysis.
-
 ## 🛠️ Setup & Installation
 1. Clone this repository:
     ```bash
